@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-del-backend-nine.vercel.app'
+export const url = 'https://food-del-backend-tanujkumars-projects.vercel.app'
